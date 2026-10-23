@@ -1,0 +1,10 @@
+ZİRVE TOP YARIŞI — NASIL AÇILIR?
+
+▶ Oyunu "Zirve Top Yarışı" uygulamasına çift tıklayarak aç.
+  Böylece puanlar, seviyeler ve alınan eşyalar bu klasördeki kayit/kayit.json dosyasına kaydedilir.
+  Tarayıcının geçmişi/önbelleği silinse bile kayıtlar kaybolmaz.
+
+• index.html dosyasına çift tıklayarak da oynanabilir, ama o zaman kayıtlar sadece tarayıcıda tutulur
+  (menüde sarı bir uyarı görünür). Kayıtlar yine de bir sonraki açılışta dosyadan geri yüklenir.
+• Yedekler: kayit/yedekler klasöründe (en fazla 10 dakikada bir, son 50 yedek).
+• kayit klasörünü silme ve içindeki dosyaları elle değiştirme.
